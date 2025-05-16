@@ -1,5 +1,6 @@
 
-![Nafiz github (1)](https://github.com/user-attachments/assets/1f878d34-1f8e-4ac9-bc4f-aa6cf436b69a)
+
+![Nafiz github (3)](https://github.com/user-attachments/assets/63bd516d-10c3-4e8a-aad9-57ea04608409)
 
 <h1 align="center">Hi 👋, I'm Najmun Nafiz</h1>
 <h3 align="center">A passionate frontend developer from Kushtia,Bangladesh</h3>
@@ -8,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript ,Reactjs**
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://680b6862e90c43e375fe9d30--najmunnafiz.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://najmnnafiz.netlify.app/)
 
 - 📫 How to reach me **nafizbauetcse@gmail.com**
 
